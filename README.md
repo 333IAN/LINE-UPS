@@ -13,16 +13,11 @@ The Euro 2024 Final Field Players Lineup is a Python project that aims to portra
 - Final lineup exhibition 
 - Visualization of results
 
-Installation
-
-   Ensure you have the dataset in the correct format.
-    The eye catching final lineup will be saved in the pitch22.py file. The project uses turtle position for the smooth position of players identity. It also showcases the entire football pitch and there very markings.
-
+   Ensure you have the dataset in the correct format.The eye catching final lineup will be saved in the pitch22.py file. The project uses turtle position for the smooth position of players identity. It also showcases the entire football pitch and there very markings.
 The dataset used for this project includes historical match data, and other relevant information.
 
 The project uses various machine learning models to illustrate the final lineup. You can find the model training scripts and evaluation metrics in the pitch22.py directory.
-
-The results of the predictions are saved in the pitch22.py directory. You can find detailed analysis and visualizations of the predictions in the provided Jupyter notebooks.
+The results of the predictions are shown upon run up of the project.
 
 Contributions are welcome! If you'd like to contribute to this project, please follow these steps:🙂
 
@@ -34,6 +29,5 @@ Contributions are welcome! If you'd like to contribute to this project, please f
 6. Open a pull request.
 
 If you have any questions or feedback, feel free to contact me:
-
 - Email: amuguneisavwa@gmail.com
 - GitHub:333IAN
