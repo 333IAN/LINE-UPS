@@ -8,8 +8,8 @@ The Euro 2024 Final Field Players Lineup is a Python project that aims to portra
  Features
 
 - Data collection and preprocessing
-- Feature engineering
-- Model training and evaluation
+- Positioning and player evaluation
+- Coding,implementation and testing
 - Final lineup exhibition 
 - Visualization of results
 
