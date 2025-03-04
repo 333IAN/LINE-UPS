@@ -28,6 +28,6 @@ Contributions are welcome! If you'd like to contribute to this project, please f
 5. Push to the branch.
 6. Open a pull request.
 
-If you have any questions or feedback, feel free to contact me:
+If you have any questions or feedback, feel free to contact me <a href="https://github.com/333IAN">here<\a>
 - Email: amuguneisavwa@gmail.com
 - GitHub:333IAN
